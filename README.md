@@ -1,2 +1,2 @@
 # tt_css_js_pro
-Curso na Escola TargetTrust (tt) sobre (css) e (js) nível profissional (pro).
+TargetTrust (tt) IT course about web development with (pro)fessional level in (css) and (js).
